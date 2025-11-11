@@ -1,0 +1,23 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Build artifacts (cho Maven/Gradle)
+target/
+build/
+out/
+
+# IDE files (cho IntelliJ/Eclipse/VSCode)
+.idea/
+*.iml
+.project
+.settings/
+.classpath
+.vscode/
+
+# Package files
+*.jar
+*.war
+*.ear
